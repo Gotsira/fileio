@@ -1,4 +1,6 @@
-# fileio
+#File Input and Output
+A timer use to measure the time of copying a text file `Big-Alice-In-Wonderland.txt` to a new text file using InputStream, OutputStream, BufferedReader, BufferedWriter and PrintWriter and the stopwatch class to complete the process.  
+
 Task | Time
 --------------------------------------|-------:
 Copy a file byte-by-byte | 5.31953 sec
